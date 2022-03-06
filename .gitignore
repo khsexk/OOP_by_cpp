@@ -1,2 +1,9 @@
 #OS
 .DS_Store
+
+#vs code
+.vscode
+
+#C++
+test.dSYM
+test.out.dSYM
