@@ -12,9 +12,7 @@ class Point {
         }
 };
 
-Point::Point() : Point(0, 0) {
-    
-}
+Point::Point() : Point(0, 0) {}
 
 Point::Point(int a, int b) : x(a), y(b){}
 
@@ -25,3 +23,4 @@ int main() {
     origin.show();
     target.show();
 }
+

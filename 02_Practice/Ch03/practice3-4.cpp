@@ -10,8 +10,7 @@ class Circle {
         double getArea();
 };
 
-Circle::Circle() : Circle(1) { // 11버전까지만 위임 생성자 허용
-}
+Circle::Circle() : Circle(1) { }
 
 Circle::Circle(int r) {
     radius = r;

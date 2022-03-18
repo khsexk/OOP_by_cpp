@@ -13,8 +13,7 @@ class Circle {
 Circle::Circle() : Circle(1) {
 
 }
-Circle::Circle(int r) {
-    radius = r;
+Circle::Circle(int r) : radius(r) {
     cout << "반지름이 " << radius << "인 원 생성" << endl;
 }
 
