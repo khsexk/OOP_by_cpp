@@ -26,11 +26,16 @@ int main() {
         pArray[i].setRadius(radius);
     }
 
-    int cnt = 0;
+    int count = 0;
     Circle* p = pArray;
 
     for(int i=0 ; i<n ; i++){
+        cout << p->getArea() << ' ';
 
+        if(p->getArea() >= 100 && p->getArea() <=200)
+            count++;
+        p++;
     }
-
+    cout << endl << "면적이 100에서 200 사이인 원의 개수는 " << count << endl;
+    delete [] pArray;
 }
