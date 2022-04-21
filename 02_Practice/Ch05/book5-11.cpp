@@ -22,11 +22,11 @@ Book::Book(const string title, int price) {
     this->price=price; 
 }
 
-// Book::Book(Book& book){
-//     this->title = book.title;
-//     this->price = book.price;
-//     cout << "복사 완료" << endl ;
-// }
+Book::Book(Book& book){
+    this->title = book.title;
+    this->price = book.price;
+    cout << "복사 완료" << endl ;
+}
 
 Book::~Book(){
     cout << this->title << " 소멸" << endl;
