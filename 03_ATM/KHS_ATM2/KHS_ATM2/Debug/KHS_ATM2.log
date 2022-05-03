@@ -1,0 +1,8 @@
+﻿  ATMachine.cpp
+C:\Users\Hyunseok-Ko\Desktop\새홀리기\OOP_by_cpp\03_ATM\KHS_ATM2\KHS_ATM2\ATMachine.h(19,10): warning C4200: 비표준 확장이 사용됨: 구조체/공용 구조체의 배열 크기가 0입니다.
+C:\Users\Hyunseok-Ko\Desktop\새홀리기\OOP_by_cpp\03_ATM\KHS_ATM2\KHS_ATM2\ATMachine.h(19,10): message : 이 멤버는 기본값으로 설정된 생성자 또는 복사/이동 대입 연산자에서 무시됩니다.
+  Statistics.cpp
+C:\Users\Hyunseok-Ko\Desktop\새홀리기\OOP_by_cpp\03_ATM\KHS_ATM2\KHS_ATM2\ATMachine.h(19,10): warning C4200: 비표준 확장이 사용됨: 구조체/공용 구조체의 배열 크기가 0입니다.
+C:\Users\Hyunseok-Ko\Desktop\새홀리기\OOP_by_cpp\03_ATM\KHS_ATM2\KHS_ATM2\ATMachine.h(19,10): message : 이 멤버는 기본값으로 설정된 생성자 또는 복사/이동 대입 연산자에서 무시됩니다.
+  코드를 생성하고 있습니다...
+  KHS_ATM2.vcxproj -> C:\Users\Hyunseok-Ko\Desktop\새홀리기\OOP_by_cpp\03_ATM\KHS_ATM2\KHS_ATM2\Debug\KHS_ATM2.exe
