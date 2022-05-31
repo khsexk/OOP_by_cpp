@@ -1,4 +1,5 @@
-﻿  Main.cpp
-C:\Users\Hyunseok-Ko\Desktop\새홀리기\OOP_by_cpp\03_ATM\ATM\ATMachine.h(19,10): warning C4200: 비표준 확장이 사용됨: 구조체/공용 구조체의 배열 크기가 0입니다.
-C:\Users\Hyunseok-Ko\Desktop\새홀리기\OOP_by_cpp\03_ATM\ATM\ATMachine.h(19,10): message : 이 멤버는 기본값으로 설정된 생성자 또는 복사/이동 대입 연산자에서 무시됩니다.
-  ATM.vcxproj -> C:\Users\Hyunseok-Ko\Desktop\새홀리기\OOP_by_cpp\03_ATM\ATM\Debug\ATM.exe
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(ATM.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  ATMachine.cpp
+C:\Users\Hyunseok-Ko\Desktop\새홀리기\OOP_by_cpp\03_ATM\KHS_ATM1\ATMachine.h(19,10): warning C4200: 비표준 확장이 사용됨: 구조체/공용 구조체의 배열 크기가 0입니다.
+C:\Users\Hyunseok-Ko\Desktop\새홀리기\OOP_by_cpp\03_ATM\KHS_ATM1\ATMachine.h(19,10): message : 이 멤버는 기본값으로 설정된 생성자 또는 복사/이동 대입 연산자에서 무시됩니다.
+  ATM.vcxproj -> C:\Users\Hyunseok-Ko\Desktop\새홀리기\OOP_by_cpp\03_ATM\KHS_ATM1\Debug\KHS_ATM1.exe

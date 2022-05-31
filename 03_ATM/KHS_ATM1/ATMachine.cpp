@@ -115,6 +115,7 @@ void ATMachine::closeAccount() {
 				this->pAcctArray[j] = this->pAcctArray[j + 1];
 			del.close();
 			this->nCurrentAccountNum--;
+			this->usingID[id] = false;
 			cout << id << "번 계좌가 해지되었습니다. 감사합니다." << endl << endl;
 			break;
 		}
